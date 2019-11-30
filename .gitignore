@@ -1,2 +1,4 @@
 #ignore .py files
-*.py
+*.zip
+sandbox/
+socket-code/
