@@ -16,6 +16,7 @@ def extractFile(zFile, passwd):
         return passwd
 
     except:
+        pass
         
 
 #parsing cmd line arguments and other options using optparse
